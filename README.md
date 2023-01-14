@@ -1,3 +1,3 @@
 # Sgb-Reminder
 
-Dont miss out any sgb issues.
+Dont miss out on any sgb issues.
